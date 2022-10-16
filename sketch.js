@@ -1,6 +1,6 @@
 let axiom = "F";
 let sentence = axiom;
-let len = 100;
+let len = 90;
 let angle;
 
 let rules = [];
